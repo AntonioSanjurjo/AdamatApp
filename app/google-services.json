@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053494278574",
+    "project_id": "adamant-6dd90",
+    "storage_bucket": "adamant-6dd90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053494278574:android:725b354045042abf28303f",
+        "android_client_info": {
+          "package_name": "com.example.adamatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuEuGpBJP9m32sibDwQCF8DvK5xOiFHuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
